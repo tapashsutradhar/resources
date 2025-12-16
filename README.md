@@ -11,11 +11,10 @@ This repo is designed to help learners, beginners, and professionals quickly acc
 
 ## 📂 Table of Contents
 - [🔸 AI & Machine Learning](#-ai--machine-learning)
-- [🔸 Data Analytics](#-data-analytics)
+- [🔸 Data Science](#-data-science)
 - [🔸 Python Programming](#-python-programming)
 - [🔸 SQL & Databases](#-sql--databases)
 - [🔸 Web Development](#-web-development)
-- [🔸 Datasets](#-datasets)
 - [🔸 Tools & Cheat Sheets](#-tools--cheat-sheets)
 - [🔸 Career & Portfolio Resources](#-career--portfolio-resources)
 
