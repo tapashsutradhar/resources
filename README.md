@@ -1,6 +1,6 @@
 # resources
 A comprehensive repository collection of learning materials, notes, cheat sheets, templates, and useful references for programming, AI/ML, Data analytics and Coding Resources.
-
+<!----
 # 📚 Developer & Data Science Resources
 
 Welcome to my **Resources Repository** — a curated collection of notes, cheat sheets, templates, study guides, datasets, and reference materials across **AI/ML, Data Analytics, Python, SQL, Web Development, and Career Prep**.
